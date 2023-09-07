@@ -1,13 +1,13 @@
 import React from 'react';
-import Nelay from '../../assets/Board/Nelay.jpeg';
-import Leanne from '../../assets/Board/Leanne.jpeg';
-import Shamir from '../../assets/Board/Shamir.jpeg';
-import Jake from '../../assets/Board/Jake.jpeg';
-import Phillipe from '../../assets/Board/Phillipe.jpeg';
-import Sarah from '../../assets/Board/Sarah.jpeg';
-import Max from '../../assets/Board/Max.jpeg';
-import Caitlin from '../../assets/Board/Caitlin.jpeg';
-import Leah from '../../assets/Board/Leah.jpeg';
+import Nelay from '../../assets/Board/Board_22-23/Nelay.jpeg';
+import Leanne from '../../assets/Board/Board_22-23/Leanne.jpeg';
+import Shamir from '../../assets/Board/Board_22-23/Shamir.jpeg';
+import Jake from '../../assets/Board/Board_22-23/Jake.jpeg';
+import Phillipe from '../../assets/Board/Board_22-23/Phillipe.jpeg';
+import Sarah from '../../assets/Board/Board_22-23/Sarah.jpeg';
+import Max from '../../assets/Board/Board_22-23/Max.jpeg';
+import Caitlin from '../../assets/Board/Board_22-23/Caitlin.jpeg';
+import Leah from '../../assets/Board/Board_22-23/Leah.jpeg';
 import { motion } from 'framer-motion';
 
 const images = [
